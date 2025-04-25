@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently searching for a new Job opportunity 
 
-- 🌱 I’m currently finishing learning Python and React in <a href="https://mastermind.ac/inicio" target="blank">Mastermind AC</a>
+- 🌱 I’m currently finishing learning Game development with C# with unity in <a href="https://mastermind.ac/inicio" target="blank">Mastermind AC</a>
 
 - 📫 How to reach me **tadeo199928j@gmail.com**
 
