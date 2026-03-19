@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm José Vasconcelos</h1>
 <h3 align="center">A passionate Web developer </h3>
 
-- 🎯 Seeking: Junior Frontend (React/TypeScript) — Lisbon/Remote
+- 🎯 Seeking: Full Stack Developper (React/TypeScript | Node.js/Express | SQL, JAVA) — Lisbon/Remote
 - 💡 Strengths: Responsive UI, API integration, component architecture, E2E testing
-- 🌱 Currently: Studying React / typeScript Code
+- 🌱 Currently: Java Development
 - 📫 Email: tadeo199928j@gmail.com
 - 🌐 Portfolio: <a href="https://jose-vasconcelos.vercel.app/" target="_blank">Portfolio</a>
 - 🔗 LinkedIn: <a href="https://www.linkedin.com/in/tadeo199928j" target="_blank">in/tadeo199928j</a> 
@@ -16,11 +16,12 @@
 
 <h3 align="center">Core Skills </h3>
 
-- Frontend: React, TypeScript, JavaScript, Vite, TailwindCSS, HTML5, CSS3.
--  Testing: Cypress, Playwright, Jest.
--  Backend & DB: Node.js, Express, PHP, SQLite.
--  Tools: Git, GitHub, VS Code, Markdown, Bash.
--  Practices: Responsive design, accessibility basics, REST APIs, state management.
+- Frontend: React, TypeScript, JavaScript (ES6+), HTML5, CSS3, TailwindCSS, Angular
+- Backend: Node.js, Express, PHP, MySQL, MongoDB, Python, REST APIs
+- Testing: Jest, Cypress, Playwright, E2E Testing, BDD (Gherkin/Cucumber)
+- DevOps & Tooling: Docker, Git, GitHub, Vite, npm/yarn, CI/CD
+- Design & Collaboration: Figma, Confluence, Agile, Scrum
+- Languages: Spanish (Native), Portuguese (Proficient), English (Proficient)
 
 <br>   
     
